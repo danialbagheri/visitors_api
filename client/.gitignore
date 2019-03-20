@@ -1,19 +1,15 @@
-python files
-venv
-venv/*
-*.sqlite
-__pycache__/
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
 
-
-client/node_modules
-client/.pnp
-client.pnp.js
+# dependencies
+/node_modules
+/.pnp
+.pnp.js
 
 # testing
-client/coverage
+/coverage
 
 # production
-client/build
+/build
 
 # misc
 .DS_Store
