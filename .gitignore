@@ -1,0 +1,5 @@
+python files
+venv
+venv/*
+*.sqlite
+__pycache__/
